@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(238, 201, 208);
+    text-align:  center; 
+}
+
+.input-div{
+    margin-left: auto;
+    margin-right: auto;
+    width: 320px;
+    height: 50px;
+    padding-top: 8px;
+    border: none;
+    border-radius: 10px;
+    background-color: white;
+    font-size: 18px;
+}
+
+.input-div input{
+    height: 40px;
+    width: 70%;
+    border: none;
+}
+
+.boton-agregar{
+    width: 35px;
+    height: 35px;
+    margin-bottom: 5px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(236, 158, 169);
+    color: white;
+    
+}
+
+.item-input{
+    height: 35px;
+    width: 350px;
+    padding-bottom: 0px; left: 20px;
+    border: 1px solid white;
+    border-radius: 10px;
+    color: black;
+    font-size: 18px;
+    background: white
+    
+}
+
+.item{
+    margin-top: 10px;
+}
+
+.boton-editar{
+    height: 35px;
+    width: 35px;
+    margin-bottom: 0px; left: 5px;
+    margin-right: 5px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(181, 184, 241);
+    font-size: 20px;
+}
+
+.boton-remover{
+    height: 35px;
+    width: 35px;
+    margin-bottom: 0px; left: 5px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(233, 167, 178);
+    font-size: 20px;
+
+}
